@@ -5,5 +5,6 @@
 <h2>Deploy application with AWS Code Build and Code deploy</h2>
 <h2>V3.0</h2>
 <%= new java.util.Date() %>
+  <button>login</button>
 </body>
 </html>
